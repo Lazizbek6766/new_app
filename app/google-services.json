@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280144511874",
+    "project_id": "new-app-f107c",
+    "storage_bucket": "new-app-f107c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280144511874:android:68e9c53dd54c2fd1d3859b",
+        "android_client_info": {
+          "package_name": "uz.megasoft.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7X4Uh4kABX3PWHqdTamFczOx5UW1bOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
