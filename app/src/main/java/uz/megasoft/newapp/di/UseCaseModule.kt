@@ -46,7 +46,6 @@ object UseCaseModule {
         return TableUseCases(
             addTableUseCase = AddTableUseCase(repository),
             getTablesUseCase = GetTablesUseCase(repository)
-
         )
     }
 }
